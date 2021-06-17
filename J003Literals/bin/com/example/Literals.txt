@@ -1,0 +1,8 @@
+A constant value which can be assigned to the variable is called as a literal.
+
+202 --> integer literal
+20.2f --> float literal
+20.2 --> double literal (default)
+'S' --> character literal
+true --> boolean literal
+"Sawamura" --> String literal

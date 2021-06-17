@@ -1,0 +1,29 @@
+Variable is like a container to store values.
+
+					Data Types
+Primitive							Non Primitive
+int 								
+byte 								
+float 								
+long 								
+char 								
+double 
+boolean 
+short 
+												
+Rules for declaring a variable name
+
+must not begin with a digit
+name is case sensitive
+white space not allowed
+should not be a keyword(eg: void, static)
+can contain alphabets, characters ($,_), digits
+
+
+Statically Typed --> variables must be declared before use.
+
+
+
+
+
+

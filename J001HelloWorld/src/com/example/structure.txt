@@ -1,0 +1,22 @@
+Basic Structure 
+
+Functions								Classes
+similar code group together				similar functions together	
+
+
+Documentation section --> suggested
+
+Package statement --> optional
+
+Import statement  --> add when we require them 
+
+Interface statement  --> add when we require them
+
+Class definitions
+
+this is essential --> main method class which is entry point 
+
+main method class{
+main method definition 
+} 
+
